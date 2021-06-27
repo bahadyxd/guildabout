@@ -1,0 +1,2 @@
+# guildabout
+GuildAbout Discord Plugin
